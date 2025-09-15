@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions GitHub
+    url: https://github.com/EDACY-ONLINE-2025/api-produits-fastify-redis/discussions
+    about: Poser des questions générales ou discuter des fonctionnalités
+  - name: 📚 Documentation
+    url: http://localhost:3000/docs
+    about: Consulter la documentation API interactive
+  - name: 📧 Support par email
+    url: mailto:contact@edacy.com
+    about: Contacter l'équipe de support directement
